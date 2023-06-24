@@ -1,4 +1,10 @@
-Link -  https://maheshb45.github.io/ToDo-List-React-App/
+# Here is Live Website --  https://maheshb45.github.io/ToDo-List-React-App/
+
+# Project Snippet --
+
+![Screenshot 2023-06-24 205041](https://github.com/MaheshB45/ToDo-List-React-App/assets/107680212/f01fee09-523f-4927-9057-0039040683c8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
